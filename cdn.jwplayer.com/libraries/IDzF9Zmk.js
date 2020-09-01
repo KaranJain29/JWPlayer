@@ -17,7 +17,7 @@ var jwDefaults = {
   "displaydescription": true,
   "displaytitle": true,
   "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.17.3/jwplayer.flash.swf",
-  "key": "ITWMv7t88JGzI0xPwW8I0+LveiXX9SWbfdmt0ArUSyc=",
+  "key": "idGtxZDVsWxh153VUkI2VOBU3w0grXT2WI7rhoCC+lKcRGgmYt0WkxQffvvhFhyU",
   "mute": fasle,
   "playbackRateControls": true,
   "preload": "auto",
