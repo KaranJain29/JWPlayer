@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#F15461" fill-rule="nonzero">
+            <path d="M7.5,0 C3.36,0 0,3.36 0,7.5 C0,11.64 3.36,15 7.5,15 C11.64,15 15,11.64 15,7.5 C15,3.36 11.64,0 7.5,0 Z M7,3.5 C7,3.22 7.22,3 7.5,3 C7.78,3 8,3.22 8,3.5 L8,8 C8,8.28 7.78,8.5 7.5,8.5 C7.22,8.5 7,8.28 7,8 L7,3.5 Z M7.5,12 C6.95,12 6.5,11.55 6.5,11 C6.5,10.45 6.95,10 7.5,10 C8.05,10 8.5,10.45 8.5,11 C8.5,11.55 8.05,12 7.5,12 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
